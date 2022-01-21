@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10px;
+}
+.container {
+  height: 500px;
+  display: flex;
+  flex-direction: unset;
+  justify-content: space-between;
+  align-items: baseline;
+  color: blueviolet;
+  background-color: cadetblue;
+}
